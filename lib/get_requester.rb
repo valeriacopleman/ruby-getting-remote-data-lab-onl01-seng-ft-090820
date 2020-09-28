@@ -1,4 +1,4 @@
-require_relative 'lib/get_requester.rb'
+
 require 'net/http'
 require 'open-uri'
 require 'pry'
