@@ -1,3 +1,5 @@
+require 'net/http'
+require 'open-uri'
 require 'pry'
 
 class GetRequester
