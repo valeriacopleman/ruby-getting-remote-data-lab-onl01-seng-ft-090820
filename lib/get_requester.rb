@@ -1,3 +1,4 @@
+require_relative
 require 'net/http'
 require 'open-uri'
 require 'pry'
