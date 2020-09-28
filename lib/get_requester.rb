@@ -18,6 +18,7 @@ class GetRequester
     programs = JSON.parse(get_response_body)
     programs.collect do |program|
       program["agency"]
+    end 
   end
 
 end
